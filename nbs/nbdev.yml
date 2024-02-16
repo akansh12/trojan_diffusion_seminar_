@@ -2,7 +2,7 @@ project:
   output-dir: _docs
 
 website:
-  title: "Tutorial: Trojan Attacks on Diffusion Models with Diverse Targets (CVPR 2023)"
+  title: "trojan_diffusion_seminar_"
   site-url: "https://akansh12.github.io/trojan_diffusion_seminar_"
   description: "Advanced Topics in Diffusion Modeling - From Theory to Implementation WS 2023-24 (University of Saarland)"
   repo-branch: main

@@ -3,3 +3,4 @@ website:
     contents:
       - index.ipynb
       - 00_trojan_attack_MNIST.ipynb
+      - 01_DDPM.ipynb
