@@ -5,6 +5,7 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://akansh12.github.io',
                 'git_url': 'https://github.com/akansh12/trojan_diffusion_seminar_',
                 'lib_path': 'trojan_diffusion_seminar_'},
-  'syms': { 'trojan_diffusion_seminar_.models': {},
+  'syms': { 'trojan_diffusion_seminar_.dataset': {},
+            'trojan_diffusion_seminar_.models': {},
             'trojan_diffusion_seminar_.trojan_attack_MNIST': {},
             'trojan_diffusion_seminar_.trojan_attack_MNIST_utils': {}}}
